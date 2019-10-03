@@ -26,3 +26,5 @@ Tu Perdón | Stabat Mater | Martes
 * Trompeta 1ª
   * 1ª A
   * 1ª B
+
+[Ejercicio 1](
