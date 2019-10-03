@@ -13,8 +13,5 @@ Aquí se incluirá una recopilación de ejercicios.
   
  ![GitHub Logo](http://i.stack.imgur.com/e8nZC.gif)
 
-Ejercicio | Descripción
------------- | -------------
-Ejercicio 1 | Documento .html
-Ejercicio 2 | Documento .xml
+
 
