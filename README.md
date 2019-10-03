@@ -21,8 +21,8 @@ Santa Cruz | Sarabande | Lunes
 Tu Perdón | Stabat Mater | Martes
 
 
-# LISTA <h1>
-  * Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+# Voces <h1>
+  * Corneta
+* Trompeta 1ª
+  * 1ª A
+  * 1ª B
